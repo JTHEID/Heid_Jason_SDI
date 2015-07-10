@@ -22,10 +22,20 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Heid_Jason_Output_Assignment.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/untitled folder/Heid_Jason_Output_Assignment.html">
+        <entry file="file://$PROJECT_DIR$/Heid_Jason_Output_Assignment.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23878437">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.1519537">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Heid_Jason_Output_Assignment.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS/Heid_Jason_Output_Assignment.js/Heid_Jason_Output_Assignment.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -36,17 +46,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="Html5" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Heid_Jason_Output_Assignment.html" />
         <option value="$PROJECT_DIR$/JS/Heid_Jason_Output_Assignment.js/Heid_Jason_Outlook_Assignment.js" />
         <option value="$PROJECT_DIR$/untitled folder/Heid_Jason_Output_Assignment.html" />
+        <option value="$PROJECT_DIR$/JS/Heid_Jason_Output_Assignment.js/Heid_Jason_Output_Assignment.js" />
+        <option value="$PROJECT_DIR$/Heid_Jason_Output_Assignment.html" />
       </list>
     </option>
   </component>
@@ -105,8 +116,22 @@
               <option name="myItemId" value="Heid_Jason_Output_Assignment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="untitled folder" />
+              <option name="myItemId" value="Heid_Jason_Output_Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Heid_Jason_Output_Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Heid_Jason_Output_Assignment.js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -212,10 +237,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/untitled folder/Heid_Jason_Output_Assignment.html">
+    <entry file="file://$PROJECT_DIR$/JS/Heid_Jason_Output_Assignment.js/Heid_Jason_Output_Assignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23878437">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Heid_Jason_Output_Assignment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1519537">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
