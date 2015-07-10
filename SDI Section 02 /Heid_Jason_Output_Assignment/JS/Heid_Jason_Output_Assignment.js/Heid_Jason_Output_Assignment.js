@@ -6,16 +6,15 @@
 //Full Sail University
 //7-9-15
 
-var favFood = "Lasagna";
+var favoriteFood; = "Lasagna"; //String Value
 
-var likesSushi = true;
+var likesSushi; = true; //Boolean Value
 
-var numberOfChildren = 2;
+var numberOfChildren; = 2; //Integer Value
 
-var dreamCar = "Mercedes Benz G Class";
+var dreamCar; = "Mercedes Benz G Class"; //String Value 2
 
-var dislikesDogs = false;
+var dislikesDogs; = false; //Boolean Value 2
 
-var luckyNumber = 138;
+var luckyNumber; = 138; //Integer Value 2
 
-    
