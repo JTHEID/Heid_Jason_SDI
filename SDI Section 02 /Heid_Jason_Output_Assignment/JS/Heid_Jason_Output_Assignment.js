@@ -21,5 +21,4 @@ var dislikesDogs = false; //Boolean Value 2
 
 var luckyNumber = 138; //Integer Value 2
 
- console.log(numberOfChildren)
- 
+
