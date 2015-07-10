@@ -10,4 +10,11 @@ var favFood = "Lasagna";
 
 var likesSushi = true;
 
-var numberOfChildren = 2; 
+var numberOfChildren = 2;
+
+var dreamCar = "Mercedes Benz G Class";
+
+var dislikesDogs = false;
+
+var luckyNumber = 138;
+
